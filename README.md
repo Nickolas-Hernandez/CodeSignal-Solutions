@@ -1,2 +1,2 @@
 # CodeSignal-Solutions
-Solutions to coding problems on CodeSignal.com. 
+JavaScript solutions to coding problems on CodeSignal.com. 
